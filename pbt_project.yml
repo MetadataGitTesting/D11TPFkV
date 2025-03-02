@@ -1,0 +1,59 @@
+name: deangelo.kassulke
+description: paradigm
+version: 0.0.2.317
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: deangelokassulke
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-03-02 20:56:26'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-03-02 20:56:26'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlOrchestratorPipelines: {}
+sqlBusinessApps: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-03-02T20:56:26.796641Z'
+  name: plibMaven
+  version: 8.9.0-SNAPSHOT
+  id: '1929808943'
+  createdAt: '2025-03-02T20:56:26.796641Z'
+  type: plibMaven
+projectDependencies:
+  '139':
+    projectUID: 139
+    projectName: ryan.hilll
+    repositoryPath: gitUri=http://gitserver:3000/dev_16PYn9Nk_team_171/dev_16PYn9Nk_project_139.git&subPath=
+    version: ryan.hilll/7.9.4.896
+    isDefault: false
+    author: null
+    createdAt: '2025-03-02 20:56:23'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
